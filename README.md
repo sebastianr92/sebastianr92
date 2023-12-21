@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👋Hi! I'm Sebastián, a Data Analyst with a background in Economics and Finance.</div>  
+### <div align="center">👋Hi! I'm Sebastián, Data Analyst with background in Economics and Finance.</div>  
   
 
 🎓Studying Economics provides me with knowledge of formal disciplines related to data science (statistics, mathematics) and a business-oriented perspective. 
