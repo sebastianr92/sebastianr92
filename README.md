@@ -50,6 +50,10 @@
 
 <br/>  
 
+## Featured Projects  
+### Financial Portfolio Analysis  
+<img src="Portada.jpg" alt="Dashboard Financiero" width="80%" style="border: 1px solid #ddd" />
+
 
 ## Connect with me  
 <div align="center">
