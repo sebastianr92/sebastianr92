@@ -50,11 +50,15 @@
 
 <br/>  
 
+
 ## Featured Projects  
 ### Financial Portfolio Analysis  
-<img src="Portada.jpg" alt="Dashboard Financiero" width="80%" style="border: 1px solid #ddd" />
+*Comparative analysis of investment portfolios with Power BI and Databricks*
+<img src="https://raw.githubusercontent.com/sebastianr92/sebastianr92/main/Portada_Finance.png" alt="Dashboard Financiero" width="80%" style="border: 1px solid #ddd; border-radius: 8px; margin: 20px 0;" />
 
-
+### Media Technology Analysis  
+*Comparative analysis of Internet and Media Tech in Argentina with Power BI and SQL Server*
+<img src="https://raw.githubusercontent.com/sebastianr92/sebastianr92/main/Portada.png" alt="Dashboard Financiero" width="80%" style="border: 1px solid #ddd; border-radius: 8px; margin: 20px 0;" />
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/sebastianr92" target="_blank">
@@ -67,18 +71,3 @@
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebastianr92&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sebastianr92&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
